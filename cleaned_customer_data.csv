@@ -1,0 +1,6 @@
+CustomerID,Name,Email,Phone Number,Email_Valid,Phone_Valid,Record_Status
+1,Alice,alice@example.com,9876543210,True,True,Valid
+2,Bob,bob@example.com,abc,True,False,Error
+3,Charlie,charlie@example.com,9876543210,True,True,Valid
+4,David,david@example.com,abc,True,False,Error
+5,Eve,eve@example.com,9876543210,True,True,Valid
